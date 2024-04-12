@@ -149,4 +149,4 @@ model = SegFormer()
 
 
 - **Swin-UMamba**
-  The code for the Swin-UMamba model can be found on swinumamba.py
+  The code for the Swin-UMamba model will be soon made available.
